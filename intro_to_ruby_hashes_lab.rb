@@ -52,5 +52,5 @@ def monopoly_with_fourth_tier
   monopoly
 	   #binding.pry
 end
-monopoly
+return monopoly
 end
